@@ -1,0 +1,12 @@
+D:\Codebase\BuraTookKit\BuraToolKit\BTK\bin\Debug\net6.0\BTK.deps.json
+D:\Codebase\BuraTookKit\BuraToolKit\BTK\bin\Debug\net6.0\BTK.dll
+D:\Codebase\BuraTookKit\BuraToolKit\BTK\bin\Debug\net6.0\BTK.pdb
+D:\Codebase\BuraTookKit\BuraToolKit\BTK\obj\Debug\net6.0\BTK.csproj.AssemblyReference.cache
+D:\Codebase\BuraTookKit\BuraToolKit\BTK\obj\Debug\net6.0\BTK.GeneratedMSBuildEditorConfig.editorconfig
+D:\Codebase\BuraTookKit\BuraToolKit\BTK\obj\Debug\net6.0\BTK.AssemblyInfoInputs.cache
+D:\Codebase\BuraTookKit\BuraToolKit\BTK\obj\Debug\net6.0\BTK.AssemblyInfo.cs
+D:\Codebase\BuraTookKit\BuraToolKit\BTK\obj\Debug\net6.0\BTK.csproj.CoreCompileInputs.cache
+D:\Codebase\BuraTookKit\BuraToolKit\BTK\obj\Debug\net6.0\BTK.dll
+D:\Codebase\BuraTookKit\BuraToolKit\BTK\obj\Debug\net6.0\refint\BTK.dll
+D:\Codebase\BuraTookKit\BuraToolKit\BTK\obj\Debug\net6.0\BTK.pdb
+D:\Codebase\BuraTookKit\BuraToolKit\BTK\obj\Debug\net6.0\ref\BTK.dll

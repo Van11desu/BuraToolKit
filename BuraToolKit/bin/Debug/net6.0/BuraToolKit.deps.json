@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "BuraToolKit/1.0.0": {
+        "dependencies": {
+          "BTK": "1.0.0"
+        },
+        "runtime": {
+          "BuraToolKit.dll": {}
+        }
+      },
+      "BTK/1.0.0": {
+        "runtime": {
+          "BTK.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BuraToolKit/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "BTK/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
